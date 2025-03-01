@@ -34,7 +34,7 @@ properties
 #### MySQL Database Connection Configuration
 spring.datasource.url=jdbc:mysql://localhost:3306/expensesharingdb
 spring.datasource.username=root  //[change respective user name that is associated with Your workbench]
-spring.datasource.password=Yash123@gmail  //[Password Need to be changed]
+spring.datasource.password=Bhuvan123@gmail  //[Password Need to be changed]
 spring.datasource.driverClassName=com.mysql.cj.jdbc.Driver
 
 #### JPA & Hibernate Configuration
@@ -135,7 +135,7 @@ Method: GET
 
 ##### Clone the repository:
 
-git clone https://github.com/yaswanth169/Daily_Expenses_Sharing_Application.git
+git clone https://github.com/Bhuvannaidu45/Daily_Expenses_Sharing_Application.git
 
 Steps for running :
 
@@ -154,7 +154,7 @@ Steps for running :
 1. The application will be available at http://localhost:8080
 
 ## Contact
-For any inquiries, please contact [yaswanth169choudary@gmail.com].
+For any inquiries, please contact [bhuvaneshnaidu510@gmail.com].
 
 
 Snapshots :
